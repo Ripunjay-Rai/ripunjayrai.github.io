@@ -33,21 +33,21 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Central University of Punjab",
+      "area": "M.Sc Physics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
+      "startDate": "2023",
+      "endDate": "2025",
+      "gpa": 7.95,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Deen Dayal Upadhaya University Gorakhpur",
+      "area": "B.Sc",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
+      "startDate": "2019",
+      "endDate": "2022",
+      "gpa": 6.5,
       "courses": []
     },
     {
