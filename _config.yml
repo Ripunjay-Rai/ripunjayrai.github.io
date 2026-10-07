@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://avatars.githubusercontent.com/u/336912179?v=4"
+  avatar           : "https://avatars.githubusercontent.com/u/336912179?s=96&v=4"
   name             : "Ripunjay Rai"
   pronouns         :   "he/him"  
   bio              : "Computational physics | DFT & Machine Learning | Materials Modelling | Energy Materials"
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : www.linkedin.com/in/ripunjay-rai-5aa950188
+  linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
