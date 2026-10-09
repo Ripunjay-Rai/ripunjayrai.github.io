@@ -11,8 +11,8 @@ redirect_from:
 
 <h1 style="font-size: 26px; color: #1D3557;"> Education </h1>
 
-* M.Sc. in Physics, Central University of Punjab, Bathinda, 2023–2025
-* B.Sc., Deen Dayal Upadhyaya Gorakhpur University, Gorakhpur, Uttar Pradesh, 2019–2022
+* M.Sc. in Physics, *Central University of Punjab, Bathinda*, 2023–2025
+* B.Sc., *Deen Dayal Upadhyaya Gorakhpur University, Gorakhpur, Uttar Pradesh*, 2019–2022
   
 
 <h1 style="font-size: 26px; color: #1D3557;"> Research Experience </h1>
@@ -25,7 +25,7 @@ Exploring atomistic modeling approaches for understanding atomic interactions an
 
 <h1 style="font-size: 26px; color: #1D3557;"> M.Sc. Dissertation — Computational Materials Science </h1>
 
-Central University of Punjab, Bathinda
+*Central University of Punjab, Bathinda*
 
 Conducted first-principles investigations of two-dimensional transition-metal dichalcogenides for supercapacitor applications using Density Functional Theory (DFT).
 Performed structural optimization and investigated the stability and energetic properties of candidate materials.
@@ -45,19 +45,17 @@ Manuscript submitted.
 
 <h1 style="font-size: 26px; color: #1D3557;"> Technical Skills </h1>
 
-Computational Physics and Materials Science
+◆ Computational Physics and Materials Science
 
-Density Functional Theory (DFT)
+◆ Density Functional Theory (DFT)
 
-First-principles calculations
+◆ Structural optimization and total-energy calculations
 
-Structural optimization and total-energy calculations
+◆ Electronic band structure and density of states analysis
 
-Electronic band structure and density of states analysis
+◆ Quantum capacitance and charge-density analysis
 
-Quantum capacitance and charge-density analysis
-
-Machine-learning interatomic potential development for metal clusters
+◆ Machine-learning interatomic potential development for metal clusters
 
 
 <h1 style="font-size: 26px; color: #1D3557;"> Scientific Software </h1>
@@ -66,41 +64,39 @@ Machine-learning interatomic potential development for metal clusters
 
 ◆ VESTA
 
-XCrySDen
+◆ XCrySDen
 
-XMGrace
+◆ XMGrace
 
-MATLAB
+◆ MATLAB
 
 
 <h1 style="font-size: 26px; color: #1D3557;"> Programming Languages </h1>
 
-C
+◆ C
 
-C++
+◆ C++
 
-Python
+◆ Python
 
 
 <h1 style="font-size: 26px; color: #1D3557;"> General Software </h1>
 
-Microsoft Word
+◆ Microsoft Word
 
-Microsoft Excel
+◆ Microsoft Excel
 
-Microsoft PowerPoint
+◆ Microsoft PowerPoint
 
 
 <h1 style="font-size: 26px; color: #1D3557;"> Research Interests </h1>
 
-Machine-learning interatomic potentials and atomistic simulations
+◆ <em> Machine-learning interatomic potentials and atomistic simulations </em>
 
-Computational materials science and first-principles modeling
+◆ <em> Computational materials science and first-principles modeling </em>
 
-Density Functional Theory and electronic structure theory
+◆ <em> Metal clusters and atomic-scale interactions </em>
 
-Metal clusters and atomic-scale interactions
+◆ <em> Two-dimensional materials for energy-storage applications </em>
 
-Two-dimensional materials for energy-storage applications
-
-Van der Waals heterostructures and interfacial properties
+◆ <em> Van der Waals heterostructures and interfacial properties </em>
