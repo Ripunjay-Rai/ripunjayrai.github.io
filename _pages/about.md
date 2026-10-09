@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-I am Ripunjay Rai, a physicist specializing in computational materials science, first-principles simulations, and atomistic modeling. I completed my M.Sc. in Physics at the **Central University of Punjab**, with a **CGPA** of **7.95/10**.
+I am Ripunjay Rai, a physicist specializing in computational materials science, first-principles simulations, and atomistic modeling. I completed my M.Sc. in Physics at the **Central University of Punjab**, with a CGPA of **7.95/10**.
 
 I am currently working as a Project Associate at the **Centre for Nano and Material Sciences (CNMS), Jain (Deemed-to-be University), Bengaluru, India**. My current research focuses on *the development of machine-learning interatomic potentials for metal clusters*, with an emphasis on combining first-principles calculations and machine-learning approaches for efficient and reliable atomistic simulations.
 
@@ -33,3 +33,31 @@ My current research focuses on machine-learning interatomic potentials for metal
 
 **.** **Van der Waals Heterostructures:** *Investigation of interfacial interactions, electronic structure, and emergent properties of layered materials*.
 
+
+<p><span style="color:#1D3557; font-size:18px;">◆</span>
+<strong>Machine-Learning Interatomic Potentials:</strong>
+Development of machine-learning-based interatomic potentials for atomistic simulations of metal clusters.</p>
+
+<p><span style="color:#1D3557; font-size:18px;">◆</span>
+<strong>Density Functional Theory (DFT):</strong>
+First-principles calculations of structural stability, electronic properties, and material energetics.</p>
+
+<p><span style="color:#1D3557; font-size:18px;">◆</span>
+<strong>Atomistic Modeling and Simulation:</strong>
+Investigation of atomic interactions, structural configurations, and potential-energy landscapes.</p>
+
+<p><span style="color:#1D3557; font-size:18px;">◆</span>
+<strong>Computational Materials Science:</strong>
+Prediction of material properties and analysis of structure–property relationships.</p>
+
+<p><span style="color:#1D3557; font-size:18px;">◆</span>
+<strong>Two-Dimensional Materials:</strong>
+First-principles studies of low-dimensional materials for energy-storage applications.</p>
+
+<p><span style="color:#1D3557; font-size:18px;">◆</span>
+<strong>Van der Waals Heterostructures:</strong>
+Investigation of interfacial interactions and electronic properties of layered materials.</p>
+
+<p><span style="color:#1D3557; font-size:18px;">◆</span>
+<strong>Electronic Structure Analysis:</strong>
+Analysis of band structures, density of states, charge-density distributions, and Fermi surface topology.</p>
