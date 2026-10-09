@@ -17,13 +17,13 @@ redirect_from:
 
 <h1 style="font-size: 26px; color: #1D3557;"> Research Experience </h1>
 
-<h1 style="font-size: 26px; color: #1D3557;"> ▹ Project Associate </h1>
+<h1 style="font-size: 26px; color: #0F766E;"> ▹ Project Associate </h1>
 Centre for Nano and Material Sciences (CNMS), Jain (Deemed-to-be University), Bengaluru, India
 
 Working on computational materials science and the development of machine-learning interatomic potentials for metal clusters.
 Exploring atomistic modeling approaches for understanding atomic interactions and structural properties.
 
-<h1 style="font-size: 26px; color: #1D3557;"> ▹ M.Sc. Dissertation — Computational Materials Science </h1>
+<h1 style="font-size: 26px; color: #0F766E;"> ▹ M.Sc. Dissertation — Computational Materials Science </h1>
 
 *Central University of Punjab, Bathinda*
 
