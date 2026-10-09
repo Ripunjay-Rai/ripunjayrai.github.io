@@ -25,21 +25,21 @@ My current research focuses on machine-learning interatomic potentials for metal
 
 <p><span style="color:#1D3557; font-size:18px;">◆</span>
 <strong>Machine-Learning Interatomic Potentials:</strong>
-<em>Development of machine-learning-based interatomic potentials for atomistic simulations of metal clusters.<em></p>
+<em>Development of machine-learning-based interatomic potentials for atomistic simulations of metal clusters.</em>em></p>
 
 <p><span style="color:#1D3557; font-size:18px;">◆</span>
 <strong>Density Functional Theory (DFT):</strong>
-<em>First-principles calculations of structural stability, electronic properties, and material energetics.<em></p>
+<em>First-principles calculations of structural stability, electronic properties, and material energetics.</em>em></p>
 
 <p><span style="color:#1D3557; font-size:18px;">◆</span>
 <strong>Atomistic Modeling and Simulation:</strong>
-<em>Investigation of atomic interactions, structural configurations, and potential-energy landscapes.<em></p>
+<em>Investigation of atomic interactions, structural configurations, and potential-energy landscapes.</em>em></p>
 
 <p><span style="color:#1D3557; font-size:18px;">◆</span>
 <strong>Two-Dimensional Materials:</strong>
-<em>First-principles studies of low-dimensional materials for energy-storage applications.<em></p>
+<em>First-principles studies of low-dimensional materials for energy-storage applications.</em>em></p>
 
 <p><span style="color:#1D3557; font-size:18px;">◆</span>
 <strong>Van der Waals Heterostructures:</strong>
-<em>Investigation of interfacial interactions and electronic properties of layered materials.<em></p>
+<em>Investigation of interfacial interactions and electronic properties of layered materials.</em>em></p>
 
