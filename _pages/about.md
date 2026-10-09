@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: <h1 style="font-size: 36px; color: #0F766E;"> Welcome to Ripunjay's website </h1>
+title:  "Welcome to Ripunjay's website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<h1 style="font-size: 36px; color: #1D3557;"> About Me </h1>
+<h1 style="font-size: 36px; color: #0F766E;"> About Me </h1>
 
 
 
