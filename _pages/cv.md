@@ -9,56 +9,68 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<h2 style="font-size: 26px; color: #1D3557;"> Education </h1>
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* M.Sc. in Physics, Central University of Punjab, Bathinda, 2023–2025
+* B.Sc., Deen Dayal Upadhyaya Gorakhpur University, Gorakhpur, Uttar Pradesh, 2019–2022
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
+<h2 style="font-size: 26px; color: #1D3557;"> Research Experience </h1>
+
+<h2 style="font-size: 26px; color: #1D3557;"> Project Associate </h1>
+Centre for Nano and Material Sciences (CNMS), Jain (Deemed-to-be University), Bengaluru, India
+
+Working on computational materials science and the development of machine-learning interatomic potentials for metal clusters.
+Exploring atomistic modeling approaches for understanding atomic interactions and structural properties.
+
+<h2 style="font-size: 26px; color: #1D3557;"> M.Sc. Dissertation — Computational Materials Science </h1>
+
+Central University of Punjab, Bathinda
+
+Conducted first-principles investigations of two-dimensional transition-metal dichalcogenides for supercapacitor applications using Density Functional Theory (DFT).
+Performed structural optimization and investigated the stability and energetic properties of candidate materials.
+Analyzed electronic structures, density of states, charge-density distributions, and quantum capacitance.
+Investigated van der Waals heterostructures to understand their electronic and electrochemical properties for energy-storage applications.
 Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+First-principles exploration of orthorhombic XSe₂ (X = Cu, V, Zr, Ti, Pt) for energy storage devices: Insights into electronic properties, quantum capacitance, and surface charge density.
+Computational Condensed Matter, 2025.
+https://doi.org/10.1016/j.cocom.2025.e01178
+Quantum Capacitance Enhancement in FeX-CuY monolayers by forming dynamically stable FeX/CuY van der Waals Heterostructures: A First-Principles Investigation.
+Manuscript submitted.
+<h2 style="font-size: 26px; color: #1D3557;"> Technical Skills </h1>
+
+Computational Physics and Materials Science
+
+Density Functional Theory (DFT)
+First-principles calculations
+Structural optimization and total-energy calculations
+Electronic band structure and density of states analysis
+Quantum capacitance and charge-density analysis
+Machine-learning interatomic potential development for metal clusters
+
+<h2 style="font-size: 26px; color: #1D3557;"> Scientific Software </h1>
+
+Quantum ESPRESSO
+VESTA
+XCrySDen
+XMGrace
+MATLAB
+
+<h2 style="font-size: 26px; color: #1D3557;"> Programming Languages </h1>
+
+C
+C++
+Python
+
+<h2 style="font-size: 26px; color: #1D3557;"> General Software </h1>
+
+Microsoft Word
+Microsoft Excel
+Microsoft PowerPoint
+<h2 style="font-size: 26px; color: #1D3557;"> Research Interests </h1>
+Machine-learning interatomic potentials and atomistic simulations
+Computational materials science and first-principles modeling
+Density Functional Theory and electronic structure theory
+Metal clusters and atomic-scale interactions
+Two-dimensional materials for energy-storage applications
+Van der Waals heterostructures and interfacial properties
