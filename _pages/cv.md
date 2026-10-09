@@ -62,9 +62,9 @@ Machine-learning interatomic potential development for metal clusters
 
 <h1 style="font-size: 26px; color: #1D3557;"> Scientific Software </h1>
 
-Quantum ESPRESSO
+◆ Quantum ESPRESSO
 
-VESTA
+◆ VESTA
 
 XCrySDen
 
